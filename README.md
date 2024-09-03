@@ -1,4 +1,6 @@
-## Hi there 👋
+### About me
+- Student of the Faculty of Mechanics and Mathematics of MSU
+- I'm currently learning **PostgreSQL, Deep Learning**
 
 <!--
 **fedotov-fedor/fedotov-fedor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
