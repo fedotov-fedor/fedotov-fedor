@@ -1,6 +1,5 @@
 ### About me
-- Student of the Faculty of Mechanics and Mathematics of MSU
-- I'm currently learning **PostgreSQL, Deep Learning**
+- 
 
 
 ### Languages and tools
