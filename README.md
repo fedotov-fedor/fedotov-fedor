@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" title="Hadoop" width="60" height="60" />&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/apachehive.svg" title="Apache Hive" width="60" height="60" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="60" height="60" />&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/greenplum.svg" title="Greenplum" width="60" height="60" />&nbsp;
+
           
           
           
