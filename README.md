@@ -1,5 +1,5 @@
 ### About me
-- 
+- Mathematician. Mechanician. Lecturer.
 
 
 ### Languages and tools
