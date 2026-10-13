@@ -1,7 +1,3 @@
-### About me
-- Mathematician. Mechanician. Lecturer.
-
-
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title='python' width=60 height=60 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" width="60" height="60" />&nbsp;
